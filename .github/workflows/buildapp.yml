@@ -17,7 +17,7 @@ on:
         required: true
         type: string
       decrypted_youtube_url:
-        description: "Direct URL of the decrypted YouTube IPA"
+        description: "https://mega.nz/file/WroCHIRa#_i7dZn_UHLNzBTy98qMNqpyQhyUR6V8KPgPq4Eu6g20"
         default: ""
         required: true
         type: string
